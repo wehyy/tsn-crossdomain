@@ -1,0 +1,16 @@
+<data>
+	<cycle0>
+		<entry node="S6" port="0" cycle="0"/>
+		<entry node="EN5" port="0" cycle="0"/>
+		<entry node="N4" port="2" cycle="1"/>
+		<entry node="EN4" port="1" cycle="2"/>
+		<entry node="S4" port="2" cycle="2"/>
+	</cycle0>
+	<cycle1>
+		<entry node="S6" port="0" cycle="1"/>
+		<entry node="EN5" port="0" cycle="1"/>
+		<entry node="N4" port="2" cycle="2"/>
+		<entry node="EN4" port="1" cycle="0"/>
+		<entry node="S4" port="2" cycle="0"/>
+	</cycle1>
+</data>

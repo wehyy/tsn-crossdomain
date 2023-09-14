@@ -1,0 +1,8 @@
+<data>
+	<cycle0>
+		<entry node="EN3" port="1" cycle="0"/>
+	</cycle0>
+	<cycle1>
+		<entry node="EN3" port="1" cycle="1"/>
+	</cycle1>
+</data>
