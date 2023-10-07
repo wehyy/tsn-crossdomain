@@ -1,5 +1,5 @@
-# tsn-crossdomain
-tsn-crossdomain is a simulation model for Time-sensitive Networking (TSN) using the OMNeT++ discrete event simulation framework.
+# Deterministic Cross-Domain Flow Scheduling (DCDFS)
+DCDFS uses OMNeT++ discrete event simulation framework to provide a simulation model for Time Sensitive Networking (TSN), named tsn-crossdomain.
 Our model uses the [INET framework](https://inet.omnetpp.org/) and an open source extension CoRE4INET.
 
 ## Compatibility
