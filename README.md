@@ -97,3 +97,6 @@ If you want to use tsn-crossdomain without the IDE or using OMNeT++ core, you ca
   $ MODE=debug ./runsim-qt omnetpp.ini  # run simulation with the Qt interface (debug)
 ```
 
+## More Information
+
+The paper [Deterministic Cognition: Cross-Domain Flow Scheduling for Time-Sensitive Networks](https://ieeexplore.ieee.org/abstract/document/10422798/) has been accepted by IEEE Trans. Cogn. Commun. Netw., 2024.
