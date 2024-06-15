@@ -28,10 +28,10 @@ The current version of the tsn-crossdomain simulation framework has been tested 
   $ git clone --branch v3.6.6 --depth 1 https://github.com/inet-framework/inet.git
 ```
 
-+ Download and unpack CoRE4INET or clone the CoRE4INET repository, i.e.
++ Download and unpack CoRE4INET or clone the CoRE4INET repository and checkout tag 'nightly/2023-11-20_11-07-45', i.e.
 
 ```
-  $ git clone https://github.com/CoRE-RG/CoRE4INET.git
+  $ git clone -b nightly/2023-11-20_11-07-45 https://github.com/CoRE-RG/CoRE4INET.git
 ```
 
 + Your directory should now look like this:
